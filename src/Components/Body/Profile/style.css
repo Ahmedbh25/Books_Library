@@ -1,0 +1,17 @@
+.fixedbtn{
+    text-decoration: none;
+    position: fixed;
+    right:0px;
+    top : 50%;
+    background: #3f51b5;;
+    color: aliceblue;
+    padding: 15px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+    font-weight: bold;
+}
+
+.fixedbtn:hover{
+    background: #5563b8;
+}
+

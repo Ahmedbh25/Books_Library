@@ -1,0 +1,38 @@
+
+#btnnavlink{
+    transition: 0.4s ease-in-out;
+}
+
+#btnnavlink:hover{
+    color: #2e2e2e;
+    transition: 0.4 ease-in-out;
+}
+
+#categorieLink{
+    transition: 0.4s ease-in-out;
+    cursor: pointer;
+}
+
+#categorieLink:hover{
+    color:rgb(0, 89, 255);
+    text-decoration: underline;
+    text-decoration-color: rgb(180, 206, 255);
+    text-decoration-thickness: 2px;
+    text-decoration-skip-ink: none; /* prevent ink skipping */
+    text-underline-position: under; /* position the underline under the text */
+    text-underline-offset: 2px; /* set the spacing between the lines to 2px */
+}
+
+#book_link{
+    color: white;
+    cursor: pointer;
+    transition: 0.4s ease-in-out;
+}
+
+#book_link:hover{
+    color: #ff6145;
+}
+
+#shoppingcard{
+    cursor: pointer;
+}
