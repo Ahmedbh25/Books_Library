@@ -68,3 +68,23 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+# About This Awesome Project:
+
+## tools :
+1. I choose mui to create the Front Design.
+-mui is a library of UI components designers and developers can use to build React applications.
+2. REACTJS is an open-source JavaScript framework and library developed by Facebook.
+
+## Books Library Description :
+1. Get an api list of books (from the Google Books api) using axios and Filter the list by book category (fantasy, horror, romance, sci-fi, ...) .
+2. Customer can login and logout
+3. Customer can buy a book and give it a rating, if he is not logged in, he is redirected to the login page
+4. When he adds a book, the basket is update (increment).
+5. He can remove a book from the added list and the basket will be updated(decrement).
+6. Also, Filter book by creator, title, publisher ...
+7. When user login redirect him to Profile page.
+8. User can add Review on book & Update his reviews.
+9. User can add contact us message & Update his messages.
