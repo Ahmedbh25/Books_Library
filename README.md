@@ -88,3 +88,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 7. When user login redirect him to Profile page.
 8. User can add Review on book & Update his reviews.
 9. User can add contact us message & Update his messages.
+
+=> In this project, I Covered (context api to Easily share data between components). 
